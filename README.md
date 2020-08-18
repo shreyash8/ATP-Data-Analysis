@@ -1,4 +1,5 @@
-# To run in your system.
+## To run locally
+
 
 ### Requirements
 1. php >= 7.3
@@ -12,16 +13,16 @@
 ### Data Information
 
 
-ATP.csv contains raw data scrapped from ATP's official website.
+1. ATP.csv contains raw data scrapped from ATP's official website.
 
-Cleaning of Data is already done.
+2. Cleaning of Data is already done.
 
-But if you want to check how, Just go to Data folder above and open Data_Minimalized.ipynb in jupyter notebook.
-(Jupyter notebook should be installed)
+3. But if you want to check how, Just go to Data folder above and open Data_Minimalized.ipynb in jupyter notebook.
+   (Jupyter notebook should be installed)
 
-jupyter notebook Data_Minimalized.ipynb
+   jupyter notebook Data_Minimalized.ipynb
 
-IMP:-  All Data is reduced using Database Concepts and some Common sense which is not so common.
+4. IMP:-  All Data is reduced using Database Concepts and some Common sense which is not so common.
 
 
 
