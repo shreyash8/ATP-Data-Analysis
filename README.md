@@ -9,7 +9,6 @@
 
 ### _Data Information_
 
-
 1. ATP.csv contains raw data scrapped from ATP's official website.
 
 2. Cleaning of Data is already done.
