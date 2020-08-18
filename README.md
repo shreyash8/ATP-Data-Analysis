@@ -24,7 +24,7 @@
 
 
 
-### Steps to Create and Run   
+### _Steps to Create and Run_   
 
 *** If you want already created Database then dump file is available above , Then You can skip this.
 
@@ -59,7 +59,7 @@
    
    
 
-### Steps for Viewing our progress in a Web Interface
+### _Steps for Viewing our progress in a Web Interface_
 
 1. Just Copy the Website Folder above in /var/www/html
     
