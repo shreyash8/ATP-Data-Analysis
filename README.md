@@ -1,7 +1,4 @@
-## To run locally
-
-
-### Requirements
+### _Requirements_
 1. php >= 7.3
 2. mysql >= 8
 3. apache >= 2.2
@@ -10,7 +7,7 @@
 
 
 
-### Data Information
+### _Data Information_
 
 
 1. ATP.csv contains raw data scrapped from ATP's official website.
