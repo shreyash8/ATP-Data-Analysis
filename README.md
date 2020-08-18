@@ -1,4 +1,6 @@
-# Requirements
+# To run in your system.
+
+### Requirements
 1. php >= 7.3
 2. mysql >= 8
 3. apache >= 2.2
@@ -7,7 +9,7 @@
 
 
 
-# Data Information
+### Data Information
 
 
 ATP.csv contains raw data scrapped from ATP's official website.
@@ -24,7 +26,7 @@ IMP:-  All Data is reduced using Database Concepts and some Common sense which i
 
 
 
-# Steps to Create and Run   
+### Steps to Create and Run   
 
 *** If you want already created Database then dump file is available above , Then You can skip this.
 
@@ -51,7 +53,7 @@ IMP:-  All Data is reduced using Database Concepts and some Common sense which i
 5. Convert CSV files into Tables in ATP Database.
    You Can do it by this:
   
-  See this : https://stackoverflow.com/questions/3635166/how-do-i-import-csv-file-into-a-mysql-table
+   See this : https://stackoverflow.com/questions/3635166/how-do-i-import-csv-file-into-a-mysql-table
   
 6. If you followed every step carefully, Then you are good to go.
 
@@ -59,7 +61,7 @@ IMP:-  All Data is reduced using Database Concepts and some Common sense which i
    
    
 
-# Steps for Viewing our progress in a Web Interface
+### Steps for Viewing our progress in a Web Interface
 
 1. Just Copy the Website Folder above in /var/www/html
     
