@@ -1,5 +1,3 @@
-# For running on your localhost
-
 # Requirements
 1. php >= 7.3
 2. mysql >= 8
@@ -8,7 +6,9 @@
    if not, then :  sudo apt-get install php-mysql
 
 
+
 # Data Information
+
 
 ATP.csv contains raw data scrapped from ATP's official website.
 
@@ -22,7 +22,11 @@ jupyter notebook Data_Minimalized.ipynb
 IMP:-  All Data is reduced using Database Concepts and some Common sense which is not so common.
 
 
-# Steps to Create and Run   (If you want already created Database then dump file is available above)
+
+
+# Steps to Create and Run   
+
+*** If you want already created Database then dump file is available above , Then You can skip this.
 
 1. Clone this repository (Dumb to write this but Still ...)
 2. Now, we have to create a mysql Database using the reduced csv files in data folders or you can reduce given Data yourself.
