@@ -37,9 +37,9 @@
    
    First open your mysql root user. 
    
-   A. mysql -u root -p
-   B. CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
-   C. GRANT ALL PRIVILEGES ON * . * TO 'username'@'localhost';
+   1. mysql -u root -p
+   2. CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+   3. GRANT ALL PRIVILEGES ON * . * TO 'username'@'localhost';
    
    This work is Done.....
    
